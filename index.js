@@ -55,7 +55,6 @@ var questions = [q1 = {
   answer: "Chris Hemsworth"
 }]
 
-
 function play(question, answer) {
   var playerAns = readlineSync.question(question);
 
