@@ -25,7 +25,7 @@ if (playerInput === "Yes") {
 //Array of object
 var questions = [q1 = {
   question: "Who is he? ",
-  answer: "God of Thunder"
+  answer: "God Of Thunder"
 }, q2 = {
   question: "Where is he from? ",
   answer: "Asgard"
